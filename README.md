@@ -28,6 +28,10 @@ After that you will just have to type
 gospels
 ```
 in your terminal to make it work
+
+## Time lost
+[![wakatime](https://wakatime.com/badge/user/b8fabfce-3674-4c5a-a6a6-c079483acd3d/project/e3d3f57a-638c-4714-a9da-cb4c89c72f7a.svg)](https://wakatime.com/badge/user/b8fabfce-3674-4c5a-a6a6-c079483acd3d/project/e3d3f57a-638c-4714-a9da-cb4c89c72f7a)
+
 ## Credits
  I want to thank these websites that helped me:
 
