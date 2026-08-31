@@ -3,6 +3,17 @@ This program will read a line of the gospels at random
 ## Version
 [![Made by Enzo BAYLE--SOCHELEAU](https://img.shields.io/badge/Made%20by-Enzo%20BAYLE--SOCHELEAU-blue)](https://digitalpro.dev)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+
+## Write in 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  
+## Requirements
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+
 ## Installation
 Just install this by adding the files in a .zip or by cloning the repo
 
