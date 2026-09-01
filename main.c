@@ -11,7 +11,7 @@ int main (void)
     srand(time(NULL) ^ clock() ^ getpid());
     line_random = rand() % 3781 + 1;
     line = 1;
-    FILE *gospels = fopen("gospels.txt", "r");
+    FILE *gospels = fopen("~/.local/bin/gospels.txt", "r");
     if (gospels == NULL)
     {
         printf("Error : the file gospels.txt could not be opened\n");
