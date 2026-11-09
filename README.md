@@ -17,7 +17,7 @@ This program will read a line of the gospels at random
 ## Installation
 Just install this by adding the files in a .zip or by cloning the repo
 
-Then just execute the .sh file
+Then go in the gospel-terminal folder and execute the .sh file (gcc is required)
 
 ```bash
 ./install.sh
